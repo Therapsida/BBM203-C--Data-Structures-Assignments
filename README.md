@@ -1,1 +1,1 @@
-These are the assignments that I completed during my third semester in Hacettepe CS, in the BBM201 class's lab. BBM201 is a data structures class, taught in C++. You can find the assignment PDFs in the project folders for a full understanding.# BBM203-C--Data-Structures-Assignments
+This repository contains my assignments for the third semester of Hacettepe CS specifically for the course BBM203 Data Structures Lab I. Both I/O and assigments pdfs are included.
